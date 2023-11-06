@@ -1,0 +1,19 @@
+        -:    0:Source:test.cpp
+        -:    0:Graph:test.gcno
+        -:    0:Data:test.gcda
+        -:    0:Runs:1
+        -:    1:
+        -:    2:#include "main.cpp"
+        -:    3:#include <catch2/catch_test_macros.hpp>
+        -:    4:
+    #####:    5:TEST_CASE("Adding two numbers", "[add]") {
+    #####:    6:    REQUIRE(add(2, 3) == 5);
+    #####:    7:    REQUIRE(add(-1, 1) == 0);
+    #####:    8:    REQUIRE(add(0, 0) == 0);
+    #####:    9:}
+        -:   10:
+    #####:   11:TEST_CASE("Subtracting two numbers", "[subtract]") {
+    #####:   12:    REQUIRE(add(5, -2) == 3);
+    #####:   13:    REQUIRE(add(0, 0) == 0);
+    #####:   14:}
+        -:   15:

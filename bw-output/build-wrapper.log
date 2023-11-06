@@ -1,0 +1,235 @@
+Mon Nov 06 11:28:37 2023: build-wrapper, version 6.50 (linux-x86)
+Mon Nov 06 11:28:37 2023: System name: Linux Nodename: abhishekaro-ubt Release: 6.2.0-34-generic Version: #34~22.04.1-Ubuntu SMP PREEMPT_DYNAMIC Thu Sep  7 13:12:03 UTC 2 Machine: x86_64
+Mon Nov 06 11:28:37 2023: socket path: /tmp/build-wrapper-socket.R8c3VT
+Mon Nov 06 11:28:37 2023: dynamic library found: /home/abhishekj/pranav/cpp_project/build-wrapper-linux-x86/libinterceptor-i686.so
+Mon Nov 06 11:28:37 2023: dynamic library found: /home/abhishekj/pranav/cpp_project/build-wrapper-linux-x86/libinterceptor-x86_64.so
+Mon Nov 06 11:28:37 2023: dynamic library found: /home/abhishekj/pranav/cpp_project/build-wrapper-linux-x86/libinterceptor-haswell.so
+Mon Nov 06 11:28:37 2023: cwd: </home/abhishekj/pranav/cpp_project>
+Mon Nov 06 11:28:37 2023: command executed as: <build-wrapper-linux-x86/build-wrapper-linux-x86-64 --out-dir bw-output>
+Mon Nov 06 11:28:37 2023: out-dir absolute path: </home/abhishekj/pranav/cpp_project/bw-output>
+Mon Nov 06 11:28:37 2023: command line received: <g++ -o test test.cpp -lCatch2>
+Mon Nov 06 11:28:37 2023: env 0: <SHELL=/bin/bash>
+Mon Nov 06 11:28:37 2023: env 1: <LANGUAGE=en_IN:en>
+Mon Nov 06 11:28:37 2023: env 2: <JAVA_HOME=/usr/lib/jvm/java-11-openjdk-amd64>
+Mon Nov 06 11:28:37 2023: env 3: <PWD=/home/abhishekj/pranav/cpp_project>
+Mon Nov 06 11:28:37 2023: env 4: <LOGNAME=abhishekj>
+Mon Nov 06 11:28:37 2023: env 5: <XDG_SESSION_TYPE=tty>
+Mon Nov 06 11:28:37 2023: env 6: <MOTD_SHOWN=pam>
+Mon Nov 06 11:28:37 2023: env 7: <HOME=/home/abhishekj>
+Mon Nov 06 11:28:37 2023: env 8: <LANG=en_IN>
+Mon Nov 06 11:28:37 2023: env 9: <LS_COLORS=rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.webp=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:>
+Mon Nov 06 11:28:37 2023: env 10: <SSH_CONNECTION=172.27.59.127 63391 172.27.59.59 22>
+Mon Nov 06 11:28:37 2023: env 11: <LESSCLOSE=/usr/bin/lesspipe %s %s>
+Mon Nov 06 11:28:37 2023: env 12: <XDG_SESSION_CLASS=user>
+Mon Nov 06 11:28:37 2023: env 13: <TERM=xterm>
+Mon Nov 06 11:28:37 2023: env 14: <LESSOPEN=| /usr/bin/lesspipe %s>
+Mon Nov 06 11:28:37 2023: env 15: <USER=abhishekj>
+Mon Nov 06 11:28:37 2023: env 16: <DISPLAY=localhost:13.0>
+Mon Nov 06 11:28:37 2023: env 17: <SHLVL=1>
+Mon Nov 06 11:28:37 2023: env 18: <XDG_SESSION_ID=5097>
+Mon Nov 06 11:28:37 2023: env 19: <XDG_RUNTIME_DIR=/run/user/1003>
+Mon Nov 06 11:28:37 2023: env 20: <SSH_CLIENT=172.27.59.127 63391 22>
+Mon Nov 06 11:28:37 2023: env 21: <DEBUGINFOD_URLS=https://debuginfod.ubuntu.com >
+Mon Nov 06 11:28:37 2023: env 22: <XDG_DATA_DIRS=/usr/share/gnome:/usr/local/share:/usr/share:/var/lib/snapd/desktop>
+Mon Nov 06 11:28:37 2023: env 23: <PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/opt/sonar-scanner-5.0.1.3006-linux/bin:/home/abhishekj/pranav/buil_wrapper/build-wrapper-linux-x86:/home/abhishekj/pranav/cpp_project/build-wrapper-linux-x86:/home/abhishekj/pranav/buil_wrapper/build-wrapper-linux-x86>
+Mon Nov 06 11:28:37 2023: env 24: <DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1003/bus>
+Mon Nov 06 11:28:37 2023: env 25: <SSH_TTY=/dev/pts/5>
+Mon Nov 06 11:28:37 2023: env 26: <OLDPWD=/home/abhishekj/pranav/cpp_project/build-wrapper-linux-x86>
+Mon Nov 06 11:28:37 2023: env 27: <_=build-wrapper-linux-x86/build-wrapper-linux-x86-64>
+Mon Nov 06 11:28:37 2023: executing: <g++ -o test test.cpp -lCatch2>
+Mon Nov 06 11:28:37 2023: initializing json file
+Mon Nov 06 11:28:37 2023: process created with pid: 3965970
+Mon Nov 06 11:28:37 2023: parent pid: 3965969
+Mon Nov 06 11:28:37 2023: working directory: </home/abhishekj/pranav/cpp_project>
+Mon Nov 06 11:28:37 2023: executable: </home/abhishekj/pranav/cpp_project/build-wrapper-linux-x86/build-wrapper-linux-x86-64>
+Mon Nov 06 11:28:37 2023: argv[0]: <build-wrapper-linux-x86/build-wrapper-linux-x86-64>
+Mon Nov 06 11:28:37 2023: argv[1]: <-c>
+Mon Nov 06 11:28:37 2023: argv[2]: <>
+Mon Nov 06 11:28:37 2023: argv[3]: <g++>
+Mon Nov 06 11:28:37 2023: argv[4]: <-o>
+Mon Nov 06 11:28:37 2023: argv[5]: <test>
+Mon Nov 06 11:28:37 2023: argv[6]: <test.cpp>
+Mon Nov 06 11:28:37 2023: argv[7]: <-lCatch2>
+Mon Nov 06 11:28:37 2023: skipping process with pid: 3965970
+Mon Nov 06 11:28:37 2023: process created with pid: 3965971
+Mon Nov 06 11:28:37 2023: parent pid: 3965970
+Mon Nov 06 11:28:37 2023: working directory: </home/abhishekj/pranav/cpp_project>
+Mon Nov 06 11:28:37 2023: executable: </usr/bin/x86_64-linux-gnu-g++-11>
+Mon Nov 06 11:28:37 2023: argv[0]: <g++>
+Mon Nov 06 11:28:37 2023: argv[1]: <-o>
+Mon Nov 06 11:28:37 2023: argv[2]: <test>
+Mon Nov 06 11:28:37 2023: argv[3]: <test.cpp>
+Mon Nov 06 11:28:37 2023: argv[4]: <-lCatch2>
+Mon Nov 06 11:28:37 2023: envp[0]: <SQ_WRAPPER_SOCKET=/tmp/build-wrapper-socket.R8c3VT>
+Mon Nov 06 11:28:37 2023: envp[1]: <SQ_WRAPPER_LIBRARY=/home/abhishekj/pranav/cpp_project/build-wrapper-linux-x86/libinterceptor-${PLATFORM}.so>
+Mon Nov 06 11:28:37 2023: envp[2]: <SHELL=/bin/bash>
+Mon Nov 06 11:28:37 2023: envp[3]: <LANGUAGE=en_IN:en>
+Mon Nov 06 11:28:37 2023: envp[4]: <JAVA_HOME=/usr/lib/jvm/java-11-openjdk-amd64>
+Mon Nov 06 11:28:37 2023: envp[5]: <PWD=/home/abhishekj/pranav/cpp_project>
+Mon Nov 06 11:28:37 2023: envp[6]: <LOGNAME=abhishekj>
+Mon Nov 06 11:28:37 2023: envp[7]: <XDG_SESSION_TYPE=tty>
+Mon Nov 06 11:28:37 2023: envp[8]: <MOTD_SHOWN=pam>
+Mon Nov 06 11:28:37 2023: envp[9]: <HOME=/home/abhishekj>
+Mon Nov 06 11:28:37 2023: envp[10]: <LANG=en_IN>
+Mon Nov 06 11:28:37 2023: envp[11]: <LS_COLORS=rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.webp=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:>
+Mon Nov 06 11:28:37 2023: envp[12]: <SSH_CONNECTION=172.27.59.127 63391 172.27.59.59 22>
+Mon Nov 06 11:28:37 2023: envp[13]: <LESSCLOSE=/usr/bin/lesspipe %s %s>
+Mon Nov 06 11:28:37 2023: envp[14]: <XDG_SESSION_CLASS=user>
+Mon Nov 06 11:28:37 2023: envp[15]: <TERM=xterm>
+Mon Nov 06 11:28:37 2023: envp[16]: <LESSOPEN=| /usr/bin/lesspipe %s>
+Mon Nov 06 11:28:37 2023: envp[17]: <USER=abhishekj>
+Mon Nov 06 11:28:37 2023: envp[18]: <DISPLAY=localhost:13.0>
+Mon Nov 06 11:28:37 2023: envp[19]: <SHLVL=1>
+Mon Nov 06 11:28:37 2023: envp[20]: <XDG_SESSION_ID=5097>
+Mon Nov 06 11:28:37 2023: envp[21]: <XDG_RUNTIME_DIR=/run/user/1003>
+Mon Nov 06 11:28:37 2023: envp[22]: <SSH_CLIENT=172.27.59.127 63391 22>
+Mon Nov 06 11:28:37 2023: envp[23]: <DEBUGINFOD_URLS=https://debuginfod.ubuntu.com >
+Mon Nov 06 11:28:37 2023: envp[24]: <XDG_DATA_DIRS=/usr/share/gnome:/usr/local/share:/usr/share:/var/lib/snapd/desktop>
+Mon Nov 06 11:28:37 2023: envp[25]: <PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/opt/sonar-scanner-5.0.1.3006-linux/bin:/home/abhishekj/pranav/buil_wrapper/build-wrapper-linux-x86:/home/abhishekj/pranav/cpp_project/build-wrapper-linux-x86:/home/abhishekj/pranav/buil_wrapper/build-wrapper-linux-x86>
+Mon Nov 06 11:28:37 2023: envp[26]: <DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1003/bus>
+Mon Nov 06 11:28:37 2023: envp[27]: <SSH_TTY=/dev/pts/5>
+Mon Nov 06 11:28:37 2023: envp[28]: <OLDPWD=/home/abhishekj/pranav/cpp_project/build-wrapper-linux-x86>
+Mon Nov 06 11:28:37 2023: envp[29]: <_=build-wrapper-linux-x86/build-wrapper-linux-x86-64>
+Mon Nov 06 11:28:37 2023: envp[30]: <LD_PRELOAD=>
+Mon Nov 06 11:28:37 2023: process created with pid: 3965972
+Mon Nov 06 11:28:37 2023: parent pid: 3965971
+Mon Nov 06 11:28:37 2023: working directory: </home/abhishekj/pranav/cpp_project>
+Mon Nov 06 11:28:37 2023: executable: </usr/lib/gcc/x86_64-linux-gnu/11/cc1plus>
+Mon Nov 06 11:28:37 2023: argv[0]: </usr/lib/gcc/x86_64-linux-gnu/11/cc1plus>
+Mon Nov 06 11:28:37 2023: argv[1]: <-quiet>
+Mon Nov 06 11:28:37 2023: argv[2]: <-imultiarch>
+Mon Nov 06 11:28:37 2023: argv[3]: <x86_64-linux-gnu>
+Mon Nov 06 11:28:37 2023: argv[4]: <-D_GNU_SOURCE>
+Mon Nov 06 11:28:37 2023: argv[5]: <test.cpp>
+Mon Nov 06 11:28:37 2023: argv[6]: <-quiet>
+Mon Nov 06 11:28:37 2023: argv[7]: <-dumpbase>
+Mon Nov 06 11:28:37 2023: argv[8]: <test.cpp>
+Mon Nov 06 11:28:37 2023: argv[9]: <-dumpbase-ext>
+Mon Nov 06 11:28:37 2023: argv[10]: <.cpp>
+Mon Nov 06 11:28:37 2023: argv[11]: <-mtune=generic>
+Mon Nov 06 11:28:37 2023: argv[12]: <-march=x86-64>
+Mon Nov 06 11:28:37 2023: argv[13]: <-fasynchronous-unwind-tables>
+Mon Nov 06 11:28:37 2023: argv[14]: <-fstack-protector-strong>
+Mon Nov 06 11:28:37 2023: argv[15]: <-Wformat>
+Mon Nov 06 11:28:37 2023: argv[16]: <-Wformat-security>
+Mon Nov 06 11:28:37 2023: argv[17]: <-fstack-clash-protection>
+Mon Nov 06 11:28:37 2023: argv[18]: <-fcf-protection>
+Mon Nov 06 11:28:37 2023: argv[19]: <-o>
+Mon Nov 06 11:28:37 2023: argv[20]: </tmp/ccmqP2wy.s>
+Mon Nov 06 11:28:37 2023: skipping process with pid: 3965972
+Mon Nov 06 11:28:38 2023: process created with pid: 3965973
+Mon Nov 06 11:28:38 2023: parent pid: 3965971
+Mon Nov 06 11:28:38 2023: working directory: </home/abhishekj/pranav/cpp_project>
+Mon Nov 06 11:28:38 2023: executable: </usr/bin/x86_64-linux-gnu-as>
+Mon Nov 06 11:28:38 2023: argv[0]: <as>
+Mon Nov 06 11:28:38 2023: argv[1]: <--64>
+Mon Nov 06 11:28:38 2023: argv[2]: <-o>
+Mon Nov 06 11:28:38 2023: argv[3]: </tmp/ccMDFs4e.o>
+Mon Nov 06 11:28:38 2023: argv[4]: </tmp/ccmqP2wy.s>
+Mon Nov 06 11:28:38 2023: skipping process with pid: 3965973
+Mon Nov 06 11:28:38 2023: process created with pid: 3965974
+Mon Nov 06 11:28:38 2023: parent pid: 3965971
+Mon Nov 06 11:28:38 2023: working directory: </home/abhishekj/pranav/cpp_project>
+Mon Nov 06 11:28:38 2023: executable: </usr/lib/gcc/x86_64-linux-gnu/11/collect2>
+Mon Nov 06 11:28:38 2023: argv[0]: </usr/lib/gcc/x86_64-linux-gnu/11/collect2>
+Mon Nov 06 11:28:38 2023: argv[1]: <-plugin>
+Mon Nov 06 11:28:38 2023: argv[2]: </usr/lib/gcc/x86_64-linux-gnu/11/liblto_plugin.so>
+Mon Nov 06 11:28:38 2023: argv[3]: <-plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/11/lto-wrapper>
+Mon Nov 06 11:28:38 2023: argv[4]: <-plugin-opt=-fresolution=/tmp/ccoLrcMo.res>
+Mon Nov 06 11:28:38 2023: argv[5]: <-plugin-opt=-pass-through=-lgcc_s>
+Mon Nov 06 11:28:38 2023: argv[6]: <-plugin-opt=-pass-through=-lgcc>
+Mon Nov 06 11:28:38 2023: argv[7]: <-plugin-opt=-pass-through=-lc>
+Mon Nov 06 11:28:38 2023: argv[8]: <-plugin-opt=-pass-through=-lgcc_s>
+Mon Nov 06 11:28:38 2023: argv[9]: <-plugin-opt=-pass-through=-lgcc>
+Mon Nov 06 11:28:38 2023: argv[10]: <--build-id>
+Mon Nov 06 11:28:38 2023: argv[11]: <--eh-frame-hdr>
+Mon Nov 06 11:28:38 2023: argv[12]: <-m>
+Mon Nov 06 11:28:38 2023: argv[13]: <elf_x86_64>
+Mon Nov 06 11:28:38 2023: argv[14]: <--hash-style=gnu>
+Mon Nov 06 11:28:38 2023: argv[15]: <--as-needed>
+Mon Nov 06 11:28:38 2023: argv[16]: <-dynamic-linker>
+Mon Nov 06 11:28:38 2023: argv[17]: </lib64/ld-linux-x86-64.so.2>
+Mon Nov 06 11:28:38 2023: argv[18]: <-pie>
+Mon Nov 06 11:28:38 2023: argv[19]: <-z>
+Mon Nov 06 11:28:38 2023: argv[20]: <now>
+Mon Nov 06 11:28:38 2023: argv[21]: <-z>
+Mon Nov 06 11:28:38 2023: argv[22]: <relro>
+Mon Nov 06 11:28:38 2023: argv[23]: <-o>
+Mon Nov 06 11:28:38 2023: argv[24]: <test>
+Mon Nov 06 11:28:38 2023: argv[25]: </usr/lib/gcc/x86_64-linux-gnu/11/../../../x86_64-linux-gnu/Scrt1.o>
+Mon Nov 06 11:28:38 2023: argv[26]: </usr/lib/gcc/x86_64-linux-gnu/11/../../../x86_64-linux-gnu/crti.o>
+Mon Nov 06 11:28:38 2023: argv[27]: </usr/lib/gcc/x86_64-linux-gnu/11/crtbeginS.o>
+Mon Nov 06 11:28:38 2023: argv[28]: <-L/usr/lib/gcc/x86_64-linux-gnu/11>
+Mon Nov 06 11:28:38 2023: argv[29]: <-L/usr/lib/gcc/x86_64-linux-gnu/11/../../../x86_64-linux-gnu>
+Mon Nov 06 11:28:38 2023: argv[30]: <-L/usr/lib/gcc/x86_64-linux-gnu/11/../../../../lib>
+Mon Nov 06 11:28:38 2023: argv[31]: <-L/lib/x86_64-linux-gnu>
+Mon Nov 06 11:28:38 2023: argv[32]: <-L/lib/../lib>
+Mon Nov 06 11:28:38 2023: argv[33]: <-L/usr/lib/x86_64-linux-gnu>
+Mon Nov 06 11:28:38 2023: argv[34]: <-L/usr/lib/../lib>
+Mon Nov 06 11:28:38 2023: argv[35]: <-L/usr/lib/gcc/x86_64-linux-gnu/11/../../..>
+Mon Nov 06 11:28:38 2023: argv[36]: </tmp/ccMDFs4e.o>
+Mon Nov 06 11:28:38 2023: argv[37]: <-lCatch2>
+Mon Nov 06 11:28:38 2023: argv[38]: <-lstdc++>
+Mon Nov 06 11:28:38 2023: argv[39]: <-lm>
+Mon Nov 06 11:28:38 2023: argv[40]: <-lgcc_s>
+Mon Nov 06 11:28:38 2023: argv[41]: <-lgcc>
+Mon Nov 06 11:28:38 2023: argv[42]: <-lc>
+Mon Nov 06 11:28:38 2023: argv[43]: <-lgcc_s>
+Mon Nov 06 11:28:38 2023: argv[44]: <-lgcc>
+Mon Nov 06 11:28:38 2023: argv[45]: </usr/lib/gcc/x86_64-linux-gnu/11/crtendS.o>
+Mon Nov 06 11:28:38 2023: argv[46]: </usr/lib/gcc/x86_64-linux-gnu/11/../../../x86_64-linux-gnu/crtn.o>
+Mon Nov 06 11:28:38 2023: skipping process with pid: 3965974
+Mon Nov 06 11:28:38 2023: process created with pid: 3965975
+Mon Nov 06 11:28:38 2023: parent pid: 3965974
+Mon Nov 06 11:28:38 2023: working directory: </home/abhishekj/pranav/cpp_project>
+Mon Nov 06 11:28:38 2023: executable: </usr/bin/x86_64-linux-gnu-ld.bfd>
+Mon Nov 06 11:28:38 2023: argv[0]: </usr/bin/ld>
+Mon Nov 06 11:28:38 2023: argv[1]: <-plugin>
+Mon Nov 06 11:28:38 2023: argv[2]: </usr/lib/gcc/x86_64-linux-gnu/11/liblto_plugin.so>
+Mon Nov 06 11:28:38 2023: argv[3]: <-plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/11/lto-wrapper>
+Mon Nov 06 11:28:38 2023: argv[4]: <-plugin-opt=-fresolution=/tmp/ccoLrcMo.res>
+Mon Nov 06 11:28:38 2023: argv[5]: <-plugin-opt=-pass-through=-lgcc_s>
+Mon Nov 06 11:28:38 2023: argv[6]: <-plugin-opt=-pass-through=-lgcc>
+Mon Nov 06 11:28:38 2023: argv[7]: <-plugin-opt=-pass-through=-lc>
+Mon Nov 06 11:28:38 2023: argv[8]: <-plugin-opt=-pass-through=-lgcc_s>
+Mon Nov 06 11:28:38 2023: argv[9]: <-plugin-opt=-pass-through=-lgcc>
+Mon Nov 06 11:28:38 2023: argv[10]: <--build-id>
+Mon Nov 06 11:28:38 2023: argv[11]: <--eh-frame-hdr>
+Mon Nov 06 11:28:38 2023: argv[12]: <-m>
+Mon Nov 06 11:28:38 2023: argv[13]: <elf_x86_64>
+Mon Nov 06 11:28:38 2023: argv[14]: <--hash-style=gnu>
+Mon Nov 06 11:28:38 2023: argv[15]: <--as-needed>
+Mon Nov 06 11:28:38 2023: argv[16]: <-dynamic-linker>
+Mon Nov 06 11:28:38 2023: argv[17]: </lib64/ld-linux-x86-64.so.2>
+Mon Nov 06 11:28:38 2023: argv[18]: <-pie>
+Mon Nov 06 11:28:38 2023: argv[19]: <-z>
+Mon Nov 06 11:28:38 2023: argv[20]: <now>
+Mon Nov 06 11:28:38 2023: argv[21]: <-z>
+Mon Nov 06 11:28:38 2023: argv[22]: <relro>
+Mon Nov 06 11:28:38 2023: argv[23]: <-o>
+Mon Nov 06 11:28:38 2023: argv[24]: <test>
+Mon Nov 06 11:28:38 2023: argv[25]: </usr/lib/gcc/x86_64-linux-gnu/11/../../../x86_64-linux-gnu/Scrt1.o>
+Mon Nov 06 11:28:38 2023: argv[26]: </usr/lib/gcc/x86_64-linux-gnu/11/../../../x86_64-linux-gnu/crti.o>
+Mon Nov 06 11:28:38 2023: argv[27]: </usr/lib/gcc/x86_64-linux-gnu/11/crtbeginS.o>
+Mon Nov 06 11:28:38 2023: argv[28]: <-L/usr/lib/gcc/x86_64-linux-gnu/11>
+Mon Nov 06 11:28:38 2023: argv[29]: <-L/usr/lib/gcc/x86_64-linux-gnu/11/../../../x86_64-linux-gnu>
+Mon Nov 06 11:28:38 2023: argv[30]: <-L/usr/lib/gcc/x86_64-linux-gnu/11/../../../../lib>
+Mon Nov 06 11:28:38 2023: argv[31]: <-L/lib/x86_64-linux-gnu>
+Mon Nov 06 11:28:38 2023: argv[32]: <-L/lib/../lib>
+Mon Nov 06 11:28:38 2023: argv[33]: <-L/usr/lib/x86_64-linux-gnu>
+Mon Nov 06 11:28:38 2023: argv[34]: <-L/usr/lib/../lib>
+Mon Nov 06 11:28:38 2023: argv[35]: <-L/usr/lib/gcc/x86_64-linux-gnu/11/../../..>
+Mon Nov 06 11:28:38 2023: argv[36]: </tmp/ccMDFs4e.o>
+Mon Nov 06 11:28:38 2023: argv[37]: <-lCatch2>
+Mon Nov 06 11:28:38 2023: argv[38]: <-lstdc++>
+Mon Nov 06 11:28:38 2023: argv[39]: <-lm>
+Mon Nov 06 11:28:38 2023: argv[40]: <-lgcc_s>
+Mon Nov 06 11:28:38 2023: argv[41]: <-lgcc>
+Mon Nov 06 11:28:38 2023: argv[42]: <-lc>
+Mon Nov 06 11:28:38 2023: argv[43]: <-lgcc_s>
+Mon Nov 06 11:28:38 2023: argv[44]: <-lgcc>
+Mon Nov 06 11:28:38 2023: argv[45]: </usr/lib/gcc/x86_64-linux-gnu/11/crtendS.o>
+Mon Nov 06 11:28:38 2023: argv[46]: </usr/lib/gcc/x86_64-linux-gnu/11/../../../x86_64-linux-gnu/crtn.o>
+Mon Nov 06 11:28:38 2023: skipping process with pid: 3965975
+Mon Nov 06 11:28:38 2023: finalizing json file
+Mon Nov 06 11:28:38 2023: returned with code: 0
